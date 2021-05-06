@@ -12,6 +12,9 @@ just a change of scenery from my all time favorite  <img src="https://www.vector
 </div>
 <div align="center">
 <img src="public/demo.png" alt="Demo Gif" width="" />
+
+<small>Credit : https://www.youtube.com/watch?v=Htt8AKeF1Kw</small>
+
 </div>
 
 ## Project setup
