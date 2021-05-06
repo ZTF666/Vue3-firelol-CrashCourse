@@ -2,13 +2,13 @@ import firebase from 'firebase'
 import {ref} from 'vue'
 
 const Config = {
-    apiKey: "******************",
-    authDomain: "***********",
-    projectId: "*****",
-    storageBucket: "*********",
-    messagingSenderId: "**************",
-    appId: "***************",
-    measurementId: "******"
+    // apiKey: "******************",
+    // authDomain: "***********",
+    // projectId: "*****",
+    // storageBucket: "*********",
+    // messagingSenderId: "**************",
+    // appId: "***************",
+    // measurementId: "******"
   }
 
   const firebaseApp = firebase.initializeApp(Config)
